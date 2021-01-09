@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
+//first github 
     int a,b,c;
     printf("enter value of a\n");
     printf("enter value of b\n");
